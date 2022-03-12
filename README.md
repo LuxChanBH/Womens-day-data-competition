@@ -3,7 +3,11 @@
 # PREREQUISITES 
 - Python 3
 - Opencv
-
+- Pandas 
+- imutils
+- Pickle 
+- sklearn 
+- os
 # HOW TO USE
 - Create dataset of face images.
 - Place the face images in dataset folder.
